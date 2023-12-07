@@ -1,0 +1,24 @@
+{
+    "36": {
+        "id": "120",
+        "province": "浙江",
+        "city": "杭州",
+        "district": "富阳市",
+        "district_not_exists": "不存在区"
+    },
+    "37": {
+        "id": "121",
+        "province": "云南",
+        "city": "文山",
+        "district": "文山县",
+        "city_not_exists": "不存在市",
+        "district_not_exists": "不存在区"
+    },
+    "39": {
+        "id": "123",
+        "province": "内蒙古",
+        "city": "包头",
+        "district": "昆都仑区",
+        "province_not_exists": "不存在省"
+    }
+}

@@ -1,0 +1,5742 @@
+[
+    {
+        "baidu_province": "上海市",
+        "baidu_city": "上海市",
+        "baidu_district": "崇明区"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "临沧市",
+        "baidu_district": "临沧市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "丽江市",
+        "baidu_district": "丽江市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "保山市",
+        "baidu_district": "保山市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "保山市",
+        "baidu_district": "腾冲市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "云龙县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "剑川县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "南涧彝族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "大理市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "大理白族自治州"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "宾川县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "巍山彝族回族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "弥渡县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "永平县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "洱源县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "漾濞彝族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "祥云县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "大理白族自治州",
+        "baidu_district": "鹤庆县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "德宏傣族景颇族自治州",
+        "baidu_district": "德宏傣族景颇族自治州"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "德宏傣族景颇族自治州",
+        "baidu_district": "梁河县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "德宏傣族景颇族自治州",
+        "baidu_district": "瑞丽市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "德宏傣族景颇族自治州",
+        "baidu_district": "盈江县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "德宏傣族景颇族自治州",
+        "baidu_district": "芒市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "德宏傣族景颇族自治州",
+        "baidu_district": "陇川县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "怒江傈僳族自治州",
+        "baidu_district": "兰坪白族普米族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "怒江傈僳族自治州",
+        "baidu_district": "怒江傈僳族自治州"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "怒江傈僳族自治州",
+        "baidu_district": "泸水市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "怒江傈僳族自治州",
+        "baidu_district": "福贡县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "怒江傈僳族自治州",
+        "baidu_district": "贡山独龙族怒族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "丘北县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "富宁县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "广南县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "文山壮族苗族自治州"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "文山市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "砚山县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "西畴县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "马关县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "文山壮族苗族自治州",
+        "baidu_district": "麻栗坡县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "昆明市",
+        "baidu_district": "呈贡区"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "昆明市",
+        "baidu_district": "昆明市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "昆明市",
+        "baidu_district": "晋宁区"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "昭通市",
+        "baidu_district": "昭通市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "墨江哈尼族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "孟连傣族拉祜族佤族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "宁洱哈尼族彝族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "思茅区"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "普洱市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "景东彝族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "景谷傣族彝族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "江城哈尼族彝族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "澜沧拉祜族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "西盟佤族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "普洱市",
+        "baidu_district": "镇沅彝族哈尼族拉祜族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "曲靖市",
+        "baidu_district": "曲靖市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "曲靖市",
+        "baidu_district": "沾益区"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "元谋县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "南华县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "双柏县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "大姚县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "姚安县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "楚雄市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "楚雄彝族自治州"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "武定县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "永仁县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "牟定县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "楚雄彝族自治州",
+        "baidu_district": "禄丰县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "玉溪市",
+        "baidu_district": "江川区"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "玉溪市",
+        "baidu_district": "玉溪市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "个旧市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "元阳县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "屏边苗族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "建水县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "开远市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "弥勒市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "河口瑶族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "泸西县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "石屏县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "红河县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "红河哈尼族彝族自治州"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "绿春县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "蒙自市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "红河哈尼族彝族自治州",
+        "baidu_district": "金平苗族瑶族傣族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "西双版纳傣族自治州",
+        "baidu_district": "勐海县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "西双版纳傣族自治州",
+        "baidu_district": "勐腊县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "西双版纳傣族自治州",
+        "baidu_district": "景洪市"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "西双版纳傣族自治州",
+        "baidu_district": "西双版纳傣族自治州"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "迪庆藏族自治州",
+        "baidu_district": "德钦县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "迪庆藏族自治州",
+        "baidu_district": "维西傈僳族自治县"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "迪庆藏族自治州",
+        "baidu_district": "迪庆藏族自治州"
+    },
+    {
+        "baidu_province": "云南省",
+        "baidu_city": "迪庆藏族自治州",
+        "baidu_district": "香格里拉市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "丰镇市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "乌兰察布市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "兴和县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "凉城县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "化德县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "卓资县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "商都县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "四子王旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "察哈尔右翼中旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "察哈尔右翼前旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "察哈尔右翼后旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌兰察布市",
+        "baidu_district": "集宁区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌海市",
+        "baidu_district": "乌海市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌海市",
+        "baidu_district": "乌达区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌海市",
+        "baidu_district": "海勃湾区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "乌海市",
+        "baidu_district": "海南区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "兴安盟",
+        "baidu_district": "乌兰浩特市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "兴安盟",
+        "baidu_district": "兴安盟"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "兴安盟",
+        "baidu_district": "扎赉特旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "兴安盟",
+        "baidu_district": "科尔沁右翼中旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "兴安盟",
+        "baidu_district": "科尔沁右翼前旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "兴安盟",
+        "baidu_district": "突泉县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "兴安盟",
+        "baidu_district": "阿尔山市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "东河区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "九原区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "包头市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "固阳县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "土默特右旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "昆都仑区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "白云鄂博矿区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "石拐区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "达尔罕茂明安联合旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "包头市",
+        "baidu_district": "青山区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "呼伦贝尔市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "扎兰屯市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "扎赉诺尔区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "新巴尔虎右旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "新巴尔虎左旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "根河市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "海拉尔区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "满洲里市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "牙克石市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "莫力达瓦达斡尔族自治旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "鄂伦春自治旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "鄂温克族自治旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "阿荣旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "陈巴尔虎旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼伦贝尔市",
+        "baidu_district": "额尔古纳市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "呼和浩特市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "和林格尔县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "回民区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "土默特左旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "托克托县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "新城区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "武川县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "清水河县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "玉泉区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "呼和浩特市",
+        "baidu_district": "赛罕区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "巴彦淖尔市",
+        "baidu_district": "临河区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "巴彦淖尔市",
+        "baidu_district": "乌拉特中旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "巴彦淖尔市",
+        "baidu_district": "乌拉特前旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "巴彦淖尔市",
+        "baidu_district": "乌拉特后旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "巴彦淖尔市",
+        "baidu_district": "五原县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "巴彦淖尔市",
+        "baidu_district": "巴彦淖尔市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "巴彦淖尔市",
+        "baidu_district": "杭锦后旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "巴彦淖尔市",
+        "baidu_district": "磴口县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "元宝山区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "克什克腾旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "喀喇沁旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "宁城县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "巴林右旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "巴林左旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "敖汉旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "松山区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "林西县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "红山区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "翁牛特旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "赤峰市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "赤峰市",
+        "baidu_district": "阿鲁科尔沁旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "奈曼旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "库伦旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "开鲁县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "扎鲁特旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "科尔沁区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "科尔沁左翼中旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "科尔沁左翼后旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "通辽市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "通辽市",
+        "baidu_district": "霍林郭勒市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "东胜区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "乌审旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "伊金霍洛旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "准格尔旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "康巴什区"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "杭锦旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "达拉特旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "鄂尔多斯市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "鄂托克前旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "鄂尔多斯市",
+        "baidu_district": "鄂托克旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "东乌珠穆沁旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "二连浩特市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "多伦县"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "太仆寺旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "正蓝旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "正镶白旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "苏尼特右旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "苏尼特左旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "西乌珠穆沁旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "锡林浩特市"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "锡林郭勒盟"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "镶黄旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "锡林郭勒盟",
+        "baidu_district": "阿巴嘎旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "阿拉善盟",
+        "baidu_district": "阿拉善右旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "阿拉善盟",
+        "baidu_district": "阿拉善左旗"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "阿拉善盟",
+        "baidu_district": "阿拉善盟"
+    },
+    {
+        "baidu_province": "内蒙古自治区",
+        "baidu_city": "阿拉善盟",
+        "baidu_district": "额济纳旗"
+    },
+    {
+        "baidu_province": "北京市",
+        "baidu_city": "北京市",
+        "baidu_district": "密云区"
+    },
+    {
+        "baidu_province": "北京市",
+        "baidu_city": "北京市",
+        "baidu_district": "延庆区"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "吉林市",
+        "baidu_district": "吉林市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "四平市",
+        "baidu_district": "四平市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "和龙市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "图们市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "安图县"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "延吉市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "延边朝鲜族自治州"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "敦化市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "汪清县"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "珲春市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "延边朝鲜族自治州",
+        "baidu_district": "龙井市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "松原市",
+        "baidu_district": "扶余市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "松原市",
+        "baidu_district": "松原市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "白城市",
+        "baidu_district": "白城市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "白山市",
+        "baidu_district": "江源区"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "白山市",
+        "baidu_district": "浑江区"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "白山市",
+        "baidu_district": "白山市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "辽源市",
+        "baidu_district": "辽源市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "通化市",
+        "baidu_district": "通化市"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "长春市",
+        "baidu_district": "九台区"
+    },
+    {
+        "baidu_province": "吉林省",
+        "baidu_city": "长春市",
+        "baidu_district": "长春市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "乐山市",
+        "baidu_district": "乐山市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "内江市",
+        "baidu_district": "内江市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "内江市",
+        "baidu_district": "隆昌市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "会东县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "会理县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "冕宁县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "凉山彝族自治州"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "喜德县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "宁南县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "布拖县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "德昌县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "昭觉县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "普格县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "木里藏族自治县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "甘洛县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "盐源县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "美姑县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "西昌市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "越西县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "金阳县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "凉山彝族自治州",
+        "baidu_district": "雷波县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "南充市",
+        "baidu_district": "南充市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "宜宾市",
+        "baidu_district": "南溪区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "宜宾市",
+        "baidu_district": "宜宾市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "巴中市",
+        "baidu_district": "巴中市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "巴中市",
+        "baidu_district": "恩阳区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "广元市",
+        "baidu_district": "利州区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "广元市",
+        "baidu_district": "广元市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "广元市",
+        "baidu_district": "昭化区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "广安市",
+        "baidu_district": "前锋区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "广安市",
+        "baidu_district": "广安市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "德阳市",
+        "baidu_district": "德阳市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "德阳市",
+        "baidu_district": "罗江区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "成都市",
+        "baidu_district": "双流区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "成都市",
+        "baidu_district": "成都市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "成都市",
+        "baidu_district": "简阳市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "成都市",
+        "baidu_district": "郫都区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "攀枝花市",
+        "baidu_district": "攀枝花市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "泸州市",
+        "baidu_district": "泸州市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "丹巴县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "九龙县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "乡城县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "巴塘县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "康定市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "得荣县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "德格县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "新龙县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "泸定县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "炉霍县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "理塘县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "甘孜县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "甘孜藏族自治州"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "白玉县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "石渠县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "稻城县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "色达县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "道孚县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "甘孜藏族自治州",
+        "baidu_district": "雅江县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "眉山市",
+        "baidu_district": "彭山区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "眉山市",
+        "baidu_district": "眉山市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "绵阳市",
+        "baidu_district": "安州区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "绵阳市",
+        "baidu_district": "绵阳市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "自贡市",
+        "baidu_district": "自贡市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "资阳市",
+        "baidu_district": "资阳市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "达州市",
+        "baidu_district": "达川区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "达州市",
+        "baidu_district": "达州市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "遂宁市",
+        "baidu_district": "遂宁市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "九寨沟县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "壤塘县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "小金县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "松潘县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "汶川县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "理县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "红原县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "若尔盖县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "茂县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "金川县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "阿坝县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "阿坝藏族羌族自治州"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "马尔康市"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "阿坝藏族羌族自治州",
+        "baidu_district": "黑水县"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "雅安市",
+        "baidu_district": "名山区"
+    },
+    {
+        "baidu_province": "四川省",
+        "baidu_city": "雅安市",
+        "baidu_district": "雅安市"
+    },
+    {
+        "baidu_province": "天津市",
+        "baidu_city": "天津市",
+        "baidu_district": "宁河区"
+    },
+    {
+        "baidu_province": "天津市",
+        "baidu_city": "天津市",
+        "baidu_district": "滨海新区"
+    },
+    {
+        "baidu_province": "天津市",
+        "baidu_city": "天津市",
+        "baidu_district": "蓟州区"
+    },
+    {
+        "baidu_province": "天津市",
+        "baidu_city": "天津市",
+        "baidu_district": "静海区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "中卫市",
+        "baidu_district": "中卫市"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "中卫市",
+        "baidu_district": "中宁县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "中卫市",
+        "baidu_district": "沙坡头区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "中卫市",
+        "baidu_district": "海原县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "吴忠市",
+        "baidu_district": "利通区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "吴忠市",
+        "baidu_district": "同心县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "吴忠市",
+        "baidu_district": "吴忠市"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "吴忠市",
+        "baidu_district": "盐池县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "吴忠市",
+        "baidu_district": "红寺堡区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "吴忠市",
+        "baidu_district": "青铜峡市"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "固原市",
+        "baidu_district": "原州区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "固原市",
+        "baidu_district": "固原市"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "固原市",
+        "baidu_district": "彭阳县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "固原市",
+        "baidu_district": "泾源县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "固原市",
+        "baidu_district": "西吉县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "固原市",
+        "baidu_district": "隆德县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "石嘴山市",
+        "baidu_district": "大武口区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "石嘴山市",
+        "baidu_district": "平罗县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "石嘴山市",
+        "baidu_district": "惠农区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "石嘴山市",
+        "baidu_district": "石嘴山市"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "银川市",
+        "baidu_district": "兴庆区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "银川市",
+        "baidu_district": "永宁县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "银川市",
+        "baidu_district": "灵武市"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "银川市",
+        "baidu_district": "西夏区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "银川市",
+        "baidu_district": "贺兰县"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "银川市",
+        "baidu_district": "金凤区"
+    },
+    {
+        "baidu_province": "宁夏回族自治区",
+        "baidu_city": "银川市",
+        "baidu_district": "银川市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "亳州市",
+        "baidu_district": "亳州市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "六安市",
+        "baidu_district": "六安市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "六安市",
+        "baidu_district": "叶集区"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "合肥市",
+        "baidu_district": "合肥市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "合肥市",
+        "baidu_district": "巢湖市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "合肥市",
+        "baidu_district": "庐江县"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "安庆市",
+        "baidu_district": "安庆市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "宣城市",
+        "baidu_district": "宣城市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "宿州市",
+        "baidu_district": "宿州市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "池州市",
+        "baidu_district": "池州市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "淮北市",
+        "baidu_district": "淮北市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "淮南市",
+        "baidu_district": "寿县"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "淮南市",
+        "baidu_district": "淮南市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "滁州市",
+        "baidu_district": "滁州市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "芜湖市",
+        "baidu_district": "三山区"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "芜湖市",
+        "baidu_district": "弋江区"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "芜湖市",
+        "baidu_district": "无为县"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "芜湖市",
+        "baidu_district": "芜湖市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "蚌埠市",
+        "baidu_district": "蚌埠市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "铜陵市",
+        "baidu_district": "义安区"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "铜陵市",
+        "baidu_district": "枞阳县"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "铜陵市",
+        "baidu_district": "铜官区"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "铜陵市",
+        "baidu_district": "铜陵市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "阜阳市",
+        "baidu_district": "阜阳市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "马鞍山市",
+        "baidu_district": "博望区"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "马鞍山市",
+        "baidu_district": "含山县"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "马鞍山市",
+        "baidu_district": "和县"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "马鞍山市",
+        "baidu_district": "马鞍山市"
+    },
+    {
+        "baidu_province": "安徽省",
+        "baidu_city": "黄山市",
+        "baidu_district": "黄山市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "东营市",
+        "baidu_district": "东营市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "东营市",
+        "baidu_district": "垦利区"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "临沂市",
+        "baidu_district": "临沂市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "临沂市",
+        "baidu_district": "兰陵县"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "威海市",
+        "baidu_district": "威海市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "威海市",
+        "baidu_district": "文登区"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "德州市",
+        "baidu_district": "德州市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "德州市",
+        "baidu_district": "陵城区"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "日照市",
+        "baidu_district": "日照市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "枣庄市",
+        "baidu_district": "枣庄市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "泰安市",
+        "baidu_district": "泰安市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "济南市",
+        "baidu_district": "济南市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "济南市",
+        "baidu_district": "章丘区"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "济宁市",
+        "baidu_district": "兖州区"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "济宁市",
+        "baidu_district": "济宁市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "淄博市",
+        "baidu_district": "淄博市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "滨州市",
+        "baidu_district": "沾化区"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "滨州市",
+        "baidu_district": "滨州市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "潍坊市",
+        "baidu_district": "潍坊市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "烟台市",
+        "baidu_district": "烟台市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "聊城市",
+        "baidu_district": "聊城市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "莱芜市",
+        "baidu_district": "莱芜市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "菏泽市",
+        "baidu_district": "定陶区"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "菏泽市",
+        "baidu_district": "菏泽市"
+    },
+    {
+        "baidu_province": "山东省",
+        "baidu_city": "青岛市",
+        "baidu_district": "青岛市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "临汾市",
+        "baidu_district": "临汾市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "吕梁市",
+        "baidu_district": "吕梁市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "大同市",
+        "baidu_district": "大同市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "太原市",
+        "baidu_district": "太原市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "忻州市",
+        "baidu_district": "忻州市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "晋中市",
+        "baidu_district": "晋中市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "晋城市",
+        "baidu_district": "晋城市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "朔州市",
+        "baidu_district": "朔州市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "运城市",
+        "baidu_district": "运城市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "长治市",
+        "baidu_district": "长治市"
+    },
+    {
+        "baidu_province": "山西省",
+        "baidu_city": "阳泉市",
+        "baidu_district": "阳泉市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "云浮市",
+        "baidu_district": "云安区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "云浮市",
+        "baidu_district": "云浮市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "佛山市",
+        "baidu_district": "佛山市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "广州市",
+        "baidu_district": "从化区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "广州市",
+        "baidu_district": "增城区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "广州市",
+        "baidu_district": "广州市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "惠州市",
+        "baidu_district": "惠州市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "揭阳市",
+        "baidu_district": "揭东区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "揭阳市",
+        "baidu_district": "揭阳市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "梅州市",
+        "baidu_district": "梅县区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "梅州市",
+        "baidu_district": "梅州市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "汕头市",
+        "baidu_district": "汕头市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "汕尾市",
+        "baidu_district": "汕尾市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "江门市",
+        "baidu_district": "江门市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "河源市",
+        "baidu_district": "河源市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "深圳市",
+        "baidu_district": "坪山区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "深圳市",
+        "baidu_district": "深圳市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "深圳市",
+        "baidu_district": "龙华区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "清远市",
+        "baidu_district": "清新区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "清远市",
+        "baidu_district": "清远市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "湛江市",
+        "baidu_district": "湛江市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "潮州市",
+        "baidu_district": "潮安区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "潮州市",
+        "baidu_district": "潮州市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "珠海市",
+        "baidu_district": "珠海市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "肇庆市",
+        "baidu_district": "肇庆市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "肇庆市",
+        "baidu_district": "高要区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "茂名市",
+        "baidu_district": "电白区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "茂名市",
+        "baidu_district": "茂名市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "阳江市",
+        "baidu_district": "阳东区"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "阳江市",
+        "baidu_district": "阳江市"
+    },
+    {
+        "baidu_province": "广东省",
+        "baidu_city": "韶关市",
+        "baidu_district": "韶关市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "北海市",
+        "baidu_district": "北海市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "北海市",
+        "baidu_district": "合浦县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "北海市",
+        "baidu_district": "海城区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "北海市",
+        "baidu_district": "铁山港区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "北海市",
+        "baidu_district": "银海区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "上林县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "兴宁区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "南宁市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "宾阳县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "横县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "武鸣区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "江南区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "良庆区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "西乡塘区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "邕宁区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "隆安县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "青秀区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "南宁市",
+        "baidu_district": "马山县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "崇左市",
+        "baidu_district": "凭祥市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "崇左市",
+        "baidu_district": "大新县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "崇左市",
+        "baidu_district": "天等县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "崇左市",
+        "baidu_district": "宁明县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "崇左市",
+        "baidu_district": "崇左市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "崇左市",
+        "baidu_district": "扶绥县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "崇左市",
+        "baidu_district": "江州区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "崇左市",
+        "baidu_district": "龙州县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "来宾市",
+        "baidu_district": "兴宾区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "来宾市",
+        "baidu_district": "合山市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "来宾市",
+        "baidu_district": "忻城县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "来宾市",
+        "baidu_district": "来宾市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "来宾市",
+        "baidu_district": "武宣县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "来宾市",
+        "baidu_district": "象州县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "来宾市",
+        "baidu_district": "金秀瑶族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "三江侗族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "城中区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "柳北区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "柳南区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "柳城县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "柳州市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "柳江区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "融安县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "融水苗族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "鱼峰区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "柳州市",
+        "baidu_district": "鹿寨县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "七星区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "临桂区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "全州县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "兴安县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "叠彩区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "平乐县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "恭城瑶族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "桂林市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "永福县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "灌阳县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "灵川县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "秀峰区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "荔浦县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "象山区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "资源县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "阳朔县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "雁山区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "桂林市",
+        "baidu_district": "龙胜各族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "梧州市",
+        "baidu_district": "万秀区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "梧州市",
+        "baidu_district": "岑溪市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "梧州市",
+        "baidu_district": "梧州市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "梧州市",
+        "baidu_district": "苍梧县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "梧州市",
+        "baidu_district": "蒙山县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "梧州市",
+        "baidu_district": "藤县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "梧州市",
+        "baidu_district": "长洲区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "梧州市",
+        "baidu_district": "龙圩区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "东兰县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "凤山县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "南丹县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "大化瑶族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "天峨县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "宜州区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "巴马瑶族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "河池市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "环江毛南族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "罗城仫佬族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "都安瑶族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "河池市",
+        "baidu_district": "金城江区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "玉林市",
+        "baidu_district": "兴业县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "玉林市",
+        "baidu_district": "北流市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "玉林市",
+        "baidu_district": "博白县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "玉林市",
+        "baidu_district": "容县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "玉林市",
+        "baidu_district": "玉州区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "玉林市",
+        "baidu_district": "玉林市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "玉林市",
+        "baidu_district": "福绵区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "玉林市",
+        "baidu_district": "陆川县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "乐业县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "凌云县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "右江区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "平果县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "德保县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "田东县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "田林县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "田阳县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "百色市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "西林县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "那坡县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "隆林各族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "百色市",
+        "baidu_district": "靖西市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贵港市",
+        "baidu_district": "平南县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贵港市",
+        "baidu_district": "桂平市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贵港市",
+        "baidu_district": "港北区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贵港市",
+        "baidu_district": "港南区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贵港市",
+        "baidu_district": "覃塘区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贵港市",
+        "baidu_district": "贵港市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贺州市",
+        "baidu_district": "八步区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贺州市",
+        "baidu_district": "富川瑶族自治县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贺州市",
+        "baidu_district": "平桂区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贺州市",
+        "baidu_district": "昭平县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贺州市",
+        "baidu_district": "贺州市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "贺州市",
+        "baidu_district": "钟山县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "钦州市",
+        "baidu_district": "浦北县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "钦州市",
+        "baidu_district": "灵山县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "钦州市",
+        "baidu_district": "钦北区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "钦州市",
+        "baidu_district": "钦南区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "钦州市",
+        "baidu_district": "钦州市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "防城港市",
+        "baidu_district": "上思县"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "防城港市",
+        "baidu_district": "东兴市"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "防城港市",
+        "baidu_district": "港口区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "防城港市",
+        "baidu_district": "防城区"
+    },
+    {
+        "baidu_province": "广西壮族自治区",
+        "baidu_city": "防城港市",
+        "baidu_district": "防城港市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "乌鲁木齐县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "乌鲁木齐市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "天山区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "头屯河区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "新市区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "水磨沟区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "沙依巴克区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "米东区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "乌鲁木齐市",
+        "baidu_district": "达坂城区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "五家渠市",
+        "baidu_district": "五家渠市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "伊宁县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "伊宁市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "伊犁哈萨克自治州"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "奎屯市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "察布查尔锡伯自治县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "尼勒克县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "巩留县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "新源县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "昭苏县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "特克斯县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "霍城县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "伊犁哈萨克自治州",
+        "baidu_district": "霍尔果斯市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克孜勒苏柯尔克孜自治州",
+        "baidu_district": "乌恰县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克孜勒苏柯尔克孜自治州",
+        "baidu_district": "克孜勒苏柯尔克孜自治州"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克孜勒苏柯尔克孜自治州",
+        "baidu_district": "阿克陶县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克孜勒苏柯尔克孜自治州",
+        "baidu_district": "阿合奇县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克孜勒苏柯尔克孜自治州",
+        "baidu_district": "阿图什市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克拉玛依市",
+        "baidu_district": "乌尔禾区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克拉玛依市",
+        "baidu_district": "克拉玛依区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克拉玛依市",
+        "baidu_district": "克拉玛依市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克拉玛依市",
+        "baidu_district": "独山子区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "克拉玛依市",
+        "baidu_district": "白碱滩区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "北屯市",
+        "baidu_district": "北屯市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "博尔塔拉蒙古自治州",
+        "baidu_district": "博乐市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "博尔塔拉蒙古自治州",
+        "baidu_district": "博尔塔拉蒙古自治州"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "博尔塔拉蒙古自治州",
+        "baidu_district": "温泉县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "博尔塔拉蒙古自治州",
+        "baidu_district": "精河县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "博尔塔拉蒙古自治州",
+        "baidu_district": "阿拉山口市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "双河市",
+        "baidu_district": "双河市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "可克达拉市",
+        "baidu_district": "可克达拉市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "吐鲁番市",
+        "baidu_district": "吐鲁番市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "吐鲁番市",
+        "baidu_district": "托克逊县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "吐鲁番市",
+        "baidu_district": "鄯善县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "吐鲁番市",
+        "baidu_district": "高昌区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "于田县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "和田县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "和田地区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "和田市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "墨玉县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "昆玉市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "民丰县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "洛浦县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "皮山县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "和田地区",
+        "baidu_district": "策勒县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "哈密市",
+        "baidu_district": "伊吾县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "哈密市",
+        "baidu_district": "伊州区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "哈密市",
+        "baidu_district": "哈密市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "哈密市",
+        "baidu_district": "巴里坤哈萨克自治县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "伽师县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "叶城县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "喀什地区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "喀什市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "塔什库尔干塔吉克自治县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "岳普湖县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "巴楚县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "泽普县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "疏勒县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "疏附县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "英吉沙县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "莎车县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "喀什地区",
+        "baidu_district": "麦盖提县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "图木舒克市",
+        "baidu_district": "图木舒克市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "塔城地区",
+        "baidu_district": "乌苏市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "塔城地区",
+        "baidu_district": "和布克赛尔蒙古自治县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "塔城地区",
+        "baidu_district": "塔城地区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "塔城地区",
+        "baidu_district": "塔城市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "塔城地区",
+        "baidu_district": "托里县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "塔城地区",
+        "baidu_district": "沙湾县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "塔城地区",
+        "baidu_district": "裕民县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "塔城地区",
+        "baidu_district": "额敏县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "且末县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "博湖县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "和硕县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "和静县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "尉犁县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "巴音郭楞蒙古自治州"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "库尔勒市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "焉耆回族自治县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "若羌县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "巴音郭楞蒙古自治州",
+        "baidu_district": "轮台县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "昌吉回族自治州",
+        "baidu_district": "吉木萨尔县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "昌吉回族自治州",
+        "baidu_district": "呼图壁县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "昌吉回族自治州",
+        "baidu_district": "奇台县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "昌吉回族自治州",
+        "baidu_district": "昌吉回族自治州"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "昌吉回族自治州",
+        "baidu_district": "昌吉市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "昌吉回族自治州",
+        "baidu_district": "木垒哈萨克自治县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "昌吉回族自治州",
+        "baidu_district": "玛纳斯县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "昌吉回族自治州",
+        "baidu_district": "阜康市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "石河子市",
+        "baidu_district": "石河子市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "乌什县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "库车县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "拜城县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "新和县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "柯坪县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "沙雅县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "温宿县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "阿克苏地区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "阿克苏市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿克苏地区",
+        "baidu_district": "阿瓦提县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿勒泰地区",
+        "baidu_district": "吉木乃县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿勒泰地区",
+        "baidu_district": "哈巴河县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿勒泰地区",
+        "baidu_district": "富蕴县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿勒泰地区",
+        "baidu_district": "布尔津县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿勒泰地区",
+        "baidu_district": "福海县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿勒泰地区",
+        "baidu_district": "阿勒泰地区"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿勒泰地区",
+        "baidu_district": "阿勒泰市"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿勒泰地区",
+        "baidu_district": "青河县"
+    },
+    {
+        "baidu_province": "新疆维吾尔自治区",
+        "baidu_city": "阿拉尔市",
+        "baidu_district": "阿拉尔市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "南京市",
+        "baidu_district": "南京市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "南京市",
+        "baidu_district": "溧水区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "南京市",
+        "baidu_district": "高淳区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "南通市",
+        "baidu_district": "南通市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "南通市",
+        "baidu_district": "通州区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "宿迁市",
+        "baidu_district": "宿迁市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "常州市",
+        "baidu_district": "金坛区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "徐州市",
+        "baidu_district": "徐州市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "徐州市",
+        "baidu_district": "铜山区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "扬州市",
+        "baidu_district": "扬州市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "扬州市",
+        "baidu_district": "江都区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "无锡市",
+        "baidu_district": "新吴区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "无锡市",
+        "baidu_district": "无锡市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "无锡市",
+        "baidu_district": "梁溪区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "泰州市",
+        "baidu_district": "姜堰区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "泰州市",
+        "baidu_district": "泰州市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "淮安市",
+        "baidu_district": "洪泽区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "淮安市",
+        "baidu_district": "淮安区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "淮安市",
+        "baidu_district": "淮安市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "淮安市",
+        "baidu_district": "清江浦区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "盐城市",
+        "baidu_district": "大丰区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "盐城市",
+        "baidu_district": "盐城市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "苏州市",
+        "baidu_district": "吴江区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "苏州市",
+        "baidu_district": "姑苏区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "苏州市",
+        "baidu_district": "苏州市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "连云港市",
+        "baidu_district": "赣榆区"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "连云港市",
+        "baidu_district": "连云港市"
+    },
+    {
+        "baidu_province": "江苏省",
+        "baidu_city": "镇江市",
+        "baidu_district": "镇江市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "上饶市",
+        "baidu_district": "上饶市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "上饶市",
+        "baidu_district": "广丰区"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "九江市",
+        "baidu_district": "九江市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "九江市",
+        "baidu_district": "共青城市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "九江市",
+        "baidu_district": "庐山市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "九江市",
+        "baidu_district": "柴桑区"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "九江市",
+        "baidu_district": "濂溪区"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "南昌市",
+        "baidu_district": "南昌市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "南昌市",
+        "baidu_district": "新建区"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "吉安市",
+        "baidu_district": "吉安市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "宜春市",
+        "baidu_district": "宜春市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "抚州市",
+        "baidu_district": "东乡区"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "抚州市",
+        "baidu_district": "抚州市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "新余市",
+        "baidu_district": "新余市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "景德镇市",
+        "baidu_district": "景德镇市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "萍乡市",
+        "baidu_district": "萍乡市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "赣州市",
+        "baidu_district": "南康区"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "赣州市",
+        "baidu_district": "赣县区"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "赣州市",
+        "baidu_district": "赣州市"
+    },
+    {
+        "baidu_province": "江西省",
+        "baidu_city": "鹰潭市",
+        "baidu_district": "鹰潭市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "保定市",
+        "baidu_district": "保定市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "保定市",
+        "baidu_district": "徐水区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "保定市",
+        "baidu_district": "清苑区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "保定市",
+        "baidu_district": "满城区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "保定市",
+        "baidu_district": "竞秀区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "保定市",
+        "baidu_district": "莲池区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "唐山市",
+        "baidu_district": "唐山市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "唐山市",
+        "baidu_district": "曹妃甸区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "廊坊市",
+        "baidu_district": "廊坊市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "张家口市",
+        "baidu_district": "万全区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "张家口市",
+        "baidu_district": "崇礼区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "张家口市",
+        "baidu_district": "张家口市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "承德市",
+        "baidu_district": "平泉市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "承德市",
+        "baidu_district": "承德市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "沧州市",
+        "baidu_district": "沧州市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "石家庄市",
+        "baidu_district": "栾城区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "石家庄市",
+        "baidu_district": "石家庄市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "石家庄市",
+        "baidu_district": "藁城区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "石家庄市",
+        "baidu_district": "鹿泉区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "秦皇岛市",
+        "baidu_district": "抚宁区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "秦皇岛市",
+        "baidu_district": "秦皇岛市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "衡水市",
+        "baidu_district": "冀州区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "衡水市",
+        "baidu_district": "衡水市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "邢台市",
+        "baidu_district": "邢台市"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "邯郸市",
+        "baidu_district": "永年区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "邯郸市",
+        "baidu_district": "肥乡区"
+    },
+    {
+        "baidu_province": "河北省",
+        "baidu_city": "邯郸市",
+        "baidu_district": "邯郸市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "三门峡市",
+        "baidu_district": "三门峡市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "三门峡市",
+        "baidu_district": "陕州区"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "信阳市",
+        "baidu_district": "信阳市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "南阳市",
+        "baidu_district": "南阳市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "周口市",
+        "baidu_district": "周口市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "商丘市",
+        "baidu_district": "商丘市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "安阳市",
+        "baidu_district": "安阳市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "平顶山市",
+        "baidu_district": "平顶山市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "开封市",
+        "baidu_district": "开封市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "开封市",
+        "baidu_district": "祥符区"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "新乡市",
+        "baidu_district": "新乡市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "洛阳市",
+        "baidu_district": "洛阳市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "洛阳市",
+        "baidu_district": "瀍河回族区"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "漯河市",
+        "baidu_district": "漯河市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "濮阳市",
+        "baidu_district": "濮阳市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "焦作市",
+        "baidu_district": "焦作市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "许昌市",
+        "baidu_district": "建安区"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "许昌市",
+        "baidu_district": "许昌市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "郑州市",
+        "baidu_district": "郑州市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "驻马店市",
+        "baidu_district": "驻马店市"
+    },
+    {
+        "baidu_province": "河南省",
+        "baidu_city": "鹤壁市",
+        "baidu_district": "鹤壁市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "丽水市",
+        "baidu_district": "丽水市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "台州市",
+        "baidu_district": "台州市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "台州市",
+        "baidu_district": "玉环市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "嘉兴市",
+        "baidu_district": "南湖区"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "嘉兴市",
+        "baidu_district": "嘉兴市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "宁波市",
+        "baidu_district": "奉化区"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "宁波市",
+        "baidu_district": "宁波市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "杭州市",
+        "baidu_district": "临安区"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "杭州市",
+        "baidu_district": "富阳区"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "杭州市",
+        "baidu_district": "杭州市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "温州市",
+        "baidu_district": "洞头区"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "温州市",
+        "baidu_district": "温州市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "湖州市",
+        "baidu_district": "湖州市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "绍兴市",
+        "baidu_district": "上虞区"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "绍兴市",
+        "baidu_district": "柯桥区"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "绍兴市",
+        "baidu_district": "绍兴市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "舟山市",
+        "baidu_district": "舟山市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "衢州市",
+        "baidu_district": "衢州市"
+    },
+    {
+        "baidu_province": "浙江省",
+        "baidu_city": "金华市",
+        "baidu_district": "金华市"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "三亚市",
+        "baidu_district": "三亚市"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "三亚市",
+        "baidu_district": "三亚市"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "三沙市",
+        "baidu_district": "中沙群岛"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "三沙市",
+        "baidu_district": "南沙群岛"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "三沙市",
+        "baidu_district": "西沙群岛"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "临高县",
+        "baidu_district": "临高县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "乐东黎族自治县",
+        "baidu_district": "乐东黎族自治县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "保亭黎族苗族自治县",
+        "baidu_district": "保亭黎族苗族自治县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "定安县",
+        "baidu_district": "定安县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "屯昌县",
+        "baidu_district": "屯昌县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "昌江黎族自治县",
+        "baidu_district": "昌江黎族自治县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "海口市",
+        "baidu_district": "海口市"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "澄迈县",
+        "baidu_district": "澄迈县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "琼中黎族苗族自治县",
+        "baidu_district": "琼中黎族苗族自治县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "白沙黎族自治县",
+        "baidu_district": "白沙黎族自治县"
+    },
+    {
+        "baidu_province": "海南省",
+        "baidu_city": "陵水黎族自治县",
+        "baidu_district": "陵水黎族自治县"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "十堰市",
+        "baidu_district": "十堰市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "十堰市",
+        "baidu_district": "郧阳区"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "咸宁市",
+        "baidu_district": "咸宁市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "孝感市",
+        "baidu_district": "孝感市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "宜昌市",
+        "baidu_district": "宜昌市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "利川市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "咸丰县"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "宣恩县"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "巴东县"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "建始县"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "恩施土家族苗族自治州"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "恩施市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "来凤县"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "恩施土家族苗族自治州",
+        "baidu_district": "鹤峰县"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "武汉市",
+        "baidu_district": "武汉市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "神农架林区",
+        "baidu_district": "神农架林区"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "荆州市",
+        "baidu_district": "荆州市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "荆门市",
+        "baidu_district": "荆门市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "襄阳市",
+        "baidu_district": "襄阳市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "鄂州市",
+        "baidu_district": "鄂州市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "随州市",
+        "baidu_district": "随县"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "随州市",
+        "baidu_district": "随州市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "黄冈市",
+        "baidu_district": "黄冈市"
+    },
+    {
+        "baidu_province": "湖北省",
+        "baidu_city": "黄石市",
+        "baidu_district": "黄石市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "娄底市",
+        "baidu_district": "娄底市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "岳阳市",
+        "baidu_district": "岳阳市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "常德市",
+        "baidu_district": "常德市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "张家界市",
+        "baidu_district": "张家界市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "怀化市",
+        "baidu_district": "怀化市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "株洲市",
+        "baidu_district": "株洲市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "永州市",
+        "baidu_district": "永州市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "永州市",
+        "baidu_district": "零陵区"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘潭市",
+        "baidu_district": "湘潭市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "保靖县"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "凤凰县"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "古丈县"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "吉首市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "永顺县"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "泸溪县"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "湘西土家族苗族自治州"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "花垣县"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "湘西土家族苗族自治州",
+        "baidu_district": "龙山县"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "益阳市",
+        "baidu_district": "益阳市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "衡阳市",
+        "baidu_district": "衡阳市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "邵阳市",
+        "baidu_district": "邵阳市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "郴州市",
+        "baidu_district": "郴州市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "长沙市",
+        "baidu_district": "宁乡市"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "长沙市",
+        "baidu_district": "望城区"
+    },
+    {
+        "baidu_province": "湖南省",
+        "baidu_city": "长沙市",
+        "baidu_district": "长沙市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "东乡族自治县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "临夏县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "临夏回族自治州"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "临夏市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "和政县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "广河县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "康乐县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "永靖县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "临夏回族自治州",
+        "baidu_district": "积石山保安族东乡族撒拉族自治县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "兰州市",
+        "baidu_district": "兰州市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "天水市",
+        "baidu_district": "天水市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "天水市",
+        "baidu_district": "秦州区"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "天水市",
+        "baidu_district": "麦积区"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "定西市",
+        "baidu_district": "定西市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "平凉市",
+        "baidu_district": "平凉市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "庆阳市",
+        "baidu_district": "庆阳市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "武威市",
+        "baidu_district": "武威市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "临潭县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "卓尼县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "合作市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "夏河县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "玛曲县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "甘南藏族自治州"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "碌曲县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "舟曲县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "甘南藏族自治州",
+        "baidu_district": "迭部县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "白银市",
+        "baidu_district": "白银市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "酒泉市",
+        "baidu_district": "瓜州县"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "酒泉市",
+        "baidu_district": "酒泉市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "金昌市",
+        "baidu_district": "金昌市"
+    },
+    {
+        "baidu_province": "甘肃省",
+        "baidu_city": "陇南市",
+        "baidu_district": "陇南市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "三明市",
+        "baidu_district": "三明市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "南平市",
+        "baidu_district": "南平市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "南平市",
+        "baidu_district": "建阳区"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "厦门市",
+        "baidu_district": "厦门市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "宁德市",
+        "baidu_district": "宁德市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "泉州市",
+        "baidu_district": "泉州市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "漳州市",
+        "baidu_district": "漳州市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "福州市",
+        "baidu_district": "福州市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "莆田市",
+        "baidu_district": "莆田市"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "龙岩市",
+        "baidu_district": "永定区"
+    },
+    {
+        "baidu_province": "福建省",
+        "baidu_city": "龙岩市",
+        "baidu_district": "龙岩市"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "乃东区"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "加查县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "山南市"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "扎囊县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "措美县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "曲松县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "桑日县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "洛扎县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "浪卡子县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "琼结县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "贡嘎县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "错那县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "山南市",
+        "baidu_district": "隆子县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "城关区"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "堆龙德庆区"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "墨竹工卡县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "尼木县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "当雄县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "拉萨市"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "曲水县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "林周县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "拉萨市",
+        "baidu_district": "达孜县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "亚东县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "仁布县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "仲巴县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "南木林县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "吉隆县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "定日县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "定结县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "岗巴县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "康马县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "拉孜县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "日喀则市"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "昂仁县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "桑珠孜区"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "江孜县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "白朗县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "聂拉木县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "萨嘎县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "萨迦县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "日喀则市",
+        "baidu_district": "谢通门县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "丁青县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "八宿县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "卡若区"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "察雅县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "左贡县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "昌都市"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "江达县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "洛隆县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "类乌齐县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "芒康县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "贡觉县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "昌都市",
+        "baidu_district": "边坝县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "林芝市",
+        "baidu_district": "墨脱县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "林芝市",
+        "baidu_district": "察隅县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "林芝市",
+        "baidu_district": "工布江达县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "林芝市",
+        "baidu_district": "巴宜区"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "林芝市",
+        "baidu_district": "朗县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "林芝市",
+        "baidu_district": "林芝市"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "林芝市",
+        "baidu_district": "波密县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "林芝市",
+        "baidu_district": "米林县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "双湖县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "嘉黎县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "安多县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "尼玛县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "巴青县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "比如县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "班戈县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "申扎县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "索县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "聂荣县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "那曲县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "那曲地区",
+        "baidu_district": "那曲地区"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "阿里地区",
+        "baidu_district": "噶尔县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "阿里地区",
+        "baidu_district": "措勤县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "阿里地区",
+        "baidu_district": "改则县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "阿里地区",
+        "baidu_district": "日土县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "阿里地区",
+        "baidu_district": "普兰县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "阿里地区",
+        "baidu_district": "札达县"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "阿里地区",
+        "baidu_district": "阿里地区"
+    },
+    {
+        "baidu_province": "西藏自治区",
+        "baidu_city": "阿里地区",
+        "baidu_district": "革吉县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "六盘水市",
+        "baidu_district": "六盘水市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "六盘水市",
+        "baidu_district": "盘州市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "安顺市",
+        "baidu_district": "安顺市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "安顺市",
+        "baidu_district": "平坝区"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "毕节市",
+        "baidu_district": "七星关区"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "贵阳市",
+        "baidu_district": "观山湖区"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "贵阳市",
+        "baidu_district": "贵阳市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "遵义市",
+        "baidu_district": "播州区"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "遵义市",
+        "baidu_district": "遵义市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "铜仁市",
+        "baidu_district": "万山区"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "铜仁市",
+        "baidu_district": "碧江区"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "三穗县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "丹寨县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "从江县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "凯里市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "剑河县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "台江县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "天柱县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "岑巩县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "施秉县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "榕江县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "锦屏县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "镇远县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "雷山县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "麻江县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "黄平县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "黎平县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔东南苗族侗族自治州",
+        "baidu_district": "黔东南苗族侗族自治州"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "三都水族自治县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "平塘县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "惠水县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "独山县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "瓮安县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "福泉市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "罗甸县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "荔波县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "贵定县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "都匀市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "长顺县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "黔南布依族苗族自治州"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔南布依族苗族自治州",
+        "baidu_district": "龙里县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "兴义市"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "兴仁县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "册亨县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "安龙县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "普安县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "晴隆县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "望谟县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "贞丰县"
+    },
+    {
+        "baidu_province": "贵州省",
+        "baidu_city": "黔西南布依族苗族自治州",
+        "baidu_district": "黔西南布依族苗族自治州"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "丹东市",
+        "baidu_district": "丹东市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "大连市",
+        "baidu_district": "大连市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "大连市",
+        "baidu_district": "普兰店区"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "抚顺市",
+        "baidu_district": "抚顺市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "朝阳市",
+        "baidu_district": "朝阳市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "本溪市",
+        "baidu_district": "本溪市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "沈阳市",
+        "baidu_district": "沈北新区"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "沈阳市",
+        "baidu_district": "沈阳市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "沈阳市",
+        "baidu_district": "浑南区"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "沈阳市",
+        "baidu_district": "辽中区"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "盘锦市",
+        "baidu_district": "大洼区"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "盘锦市",
+        "baidu_district": "盘锦市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "营口市",
+        "baidu_district": "营口市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "葫芦岛市",
+        "baidu_district": "葫芦岛市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "辽阳市",
+        "baidu_district": "辽阳市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "铁岭市",
+        "baidu_district": "铁岭市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "锦州市",
+        "baidu_district": "北镇市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "锦州市",
+        "baidu_district": "锦州市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "阜新市",
+        "baidu_district": "阜新市"
+    },
+    {
+        "baidu_province": "辽宁省",
+        "baidu_city": "鞍山市",
+        "baidu_district": "鞍山市"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "南川区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "合川区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "大足区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "开州区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "梁平区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "武隆区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "永川区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "江津区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "潼南区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "璧山区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "綦江区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "荣昌区"
+    },
+    {
+        "baidu_province": "重庆市",
+        "baidu_city": "重庆市",
+        "baidu_district": "铜梁区"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "咸阳市",
+        "baidu_district": "咸阳市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "咸阳市",
+        "baidu_district": "杨陵区"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "商洛市",
+        "baidu_district": "商洛市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "安康市",
+        "baidu_district": "安康市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "宝鸡市",
+        "baidu_district": "宝鸡市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "延安市",
+        "baidu_district": "吴起县"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "延安市",
+        "baidu_district": "安塞区"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "延安市",
+        "baidu_district": "延安市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "榆林市",
+        "baidu_district": "榆林市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "榆林市",
+        "baidu_district": "横山区"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "榆林市",
+        "baidu_district": "神木市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "汉中市",
+        "baidu_district": "南郑区"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "汉中市",
+        "baidu_district": "汉中市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "渭南市",
+        "baidu_district": "华州区"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "渭南市",
+        "baidu_district": "渭南市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "西安市",
+        "baidu_district": "西安市"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "西安市",
+        "baidu_district": "鄠邑区"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "西安市",
+        "baidu_district": "高陵区"
+    },
+    {
+        "baidu_province": "陕西省",
+        "baidu_city": "铜川市",
+        "baidu_district": "铜川市"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "果洛藏族自治州",
+        "baidu_district": "久治县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "果洛藏族自治州",
+        "baidu_district": "果洛藏族自治州"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "果洛藏族自治州",
+        "baidu_district": "玛多县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "果洛藏族自治州",
+        "baidu_district": "玛沁县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "果洛藏族自治州",
+        "baidu_district": "班玛县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "果洛藏族自治州",
+        "baidu_district": "甘德县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "果洛藏族自治州",
+        "baidu_district": "达日县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海东市",
+        "baidu_district": "乐都区"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海东市",
+        "baidu_district": "平安区"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海东市",
+        "baidu_district": "海东市"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海北藏族自治州",
+        "baidu_district": "刚察县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海北藏族自治州",
+        "baidu_district": "海北藏族自治州"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海北藏族自治州",
+        "baidu_district": "海晏县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海北藏族自治州",
+        "baidu_district": "祁连县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海北藏族自治州",
+        "baidu_district": "门源回族自治县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海南藏族自治州",
+        "baidu_district": "共和县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海南藏族自治州",
+        "baidu_district": "兴海县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海南藏族自治州",
+        "baidu_district": "同德县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海南藏族自治州",
+        "baidu_district": "贵南县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海南藏族自治州",
+        "baidu_district": "贵德县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "乌兰县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "冷湖行政委员会"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "大柴旦行政委员会"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "天峻县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "德令哈市"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "格尔木市"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "海西蒙古族藏族自治州"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "茫崖行政委员会"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "海西蒙古族藏族自治州",
+        "baidu_district": "都兰县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "玉树藏族自治州",
+        "baidu_district": "囊谦县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "玉树藏族自治州",
+        "baidu_district": "曲麻莱县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "玉树藏族自治州",
+        "baidu_district": "杂多县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "玉树藏族自治州",
+        "baidu_district": "治多县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "玉树藏族自治州",
+        "baidu_district": "玉树市"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "玉树藏族自治州",
+        "baidu_district": "玉树藏族自治州"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "玉树藏族自治州",
+        "baidu_district": "称多县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "西宁市",
+        "baidu_district": "西宁市"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "黄南藏族自治州",
+        "baidu_district": "同仁县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "黄南藏族自治州",
+        "baidu_district": "尖扎县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "黄南藏族自治州",
+        "baidu_district": "河南蒙古族自治县"
+    },
+    {
+        "baidu_province": "青海省",
+        "baidu_city": "黄南藏族自治州",
+        "baidu_district": "泽库县"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "七台河市",
+        "baidu_district": "七台河市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "伊春市",
+        "baidu_district": "伊春市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "佳木斯市",
+        "baidu_district": "佳木斯市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "佳木斯市",
+        "baidu_district": "抚远市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "双鸭山市",
+        "baidu_district": "双鸭山市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "哈尔滨市",
+        "baidu_district": "双城区"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "哈尔滨市",
+        "baidu_district": "哈尔滨市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "哈尔滨市",
+        "baidu_district": "阿城区"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "大兴安岭地区",
+        "baidu_district": "呼玛县"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "大兴安岭地区",
+        "baidu_district": "塔河县"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "大兴安岭地区",
+        "baidu_district": "大兴安岭地区"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "大兴安岭地区",
+        "baidu_district": "松岭区"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "大兴安岭地区",
+        "baidu_district": "漠河县"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "大庆市",
+        "baidu_district": "大庆市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "牡丹江市",
+        "baidu_district": "东宁市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "牡丹江市",
+        "baidu_district": "牡丹江市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "绥化市",
+        "baidu_district": "绥化市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "鸡西市",
+        "baidu_district": "鸡西市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "鹤岗市",
+        "baidu_district": "鹤岗市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "黑河市",
+        "baidu_district": "黑河市"
+    },
+    {
+        "baidu_province": "黑龙江省",
+        "baidu_city": "齐齐哈尔市",
+        "baidu_district": "齐齐哈尔市"
+    }
+]

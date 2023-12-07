@@ -1,0 +1,206 @@
+{
+    "6": {
+        "id": "75",
+        "province": "宁夏",
+        "city": "固原",
+        "district": "原州区",
+        "province_not_exists": "不存在省"
+    },
+    "7": {
+        "id": "76",
+        "province": "宁夏",
+        "city": "固原",
+        "district": "原州区",
+        "province_not_exists": "不存在省"
+    },
+    "8": {
+        "id": "77",
+        "province": "河北",
+        "city": "邯郸",
+        "district": "肥乡县",
+        "district_not_exists": "不存在区"
+    },
+    "10": {
+        "id": "79",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "12": {
+        "id": "81",
+        "province": "河北",
+        "city": "石家庄",
+        "district": "藁城市",
+        "district_not_exists": "不存在区"
+    },
+    "17": {
+        "id": "86",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "18": {
+        "id": "87",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "南川市",
+        "district_not_exists": "不存在区"
+    },
+    "20": {
+        "id": "89",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "21": {
+        "id": "90",
+        "province": "河北",
+        "city": "石家庄",
+        "district": "藁城市",
+        "district_not_exists": "不存在区"
+    },
+    "23": {
+        "id": "92",
+        "province": "河北",
+        "city": "石家庄",
+        "district": "藁城市",
+        "district_not_exists": "不存在区"
+    },
+    "26": {
+        "id": "95",
+        "province": "河北",
+        "city": "石家庄",
+        "district": "藁城市",
+        "district_not_exists": "不存在区"
+    },
+    "29": {
+        "id": "98",
+        "province": "河北",
+        "city": "石家庄",
+        "district": "藁城市",
+        "district_not_exists": "不存在区"
+    },
+    "32": {
+        "id": "101",
+        "province": "上海",
+        "city": "上海",
+        "district": "南汇区",
+        "district_not_exists": "不存在区"
+    },
+    "34": {
+        "id": "103",
+        "province": "上海",
+        "city": "上海",
+        "district": "南汇区",
+        "district_not_exists": "不存在区"
+    },
+    "42": {
+        "id": "111",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "永川市",
+        "district_not_exists": "不存在区"
+    },
+    "43": {
+        "id": "112",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "永川市",
+        "district_not_exists": "不存在区"
+    },
+    "44": {
+        "id": "113",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "永川市",
+        "district_not_exists": "不存在区"
+    },
+    "47": {
+        "id": "116",
+        "province": "天津",
+        "city": "天津",
+        "district": "汉沽区",
+        "district_not_exists": "不存在区"
+    },
+    "48": {
+        "id": "117",
+        "province": "河北",
+        "city": "邯郸",
+        "district": "肥乡县",
+        "district_not_exists": "不存在区"
+    },
+    "49": {
+        "id": "118",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "江津市",
+        "district_not_exists": "不存在区"
+    },
+    "50": {
+        "id": "119",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "合川市",
+        "district_not_exists": "不存在区"
+    },
+    "55": {
+        "id": "124",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "合川市",
+        "district_not_exists": "不存在区"
+    },
+    "56": {
+        "id": "125",
+        "province": "北京",
+        "city": "北京",
+        "district": "崇文区",
+        "district_not_exists": "不存在区"
+    },
+    "62": {
+        "id": "131",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "合川市",
+        "district_not_exists": "不存在区"
+    },
+    "66": {
+        "id": "135",
+        "province": "河北",
+        "city": "邯郸",
+        "district": "肥乡县",
+        "district_not_exists": "不存在区"
+    },
+    "68": {
+        "id": "137",
+        "province": "新疆",
+        "city": "昌吉",
+        "district": "呼图壁县",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市"
+    },
+    "75": {
+        "id": "144",
+        "province": "河北",
+        "city": "石家庄",
+        "district": "藁城市",
+        "district_not_exists": "不存在区"
+    },
+    "78": {
+        "id": "147",
+        "province": "河北",
+        "city": "邯郸",
+        "district": "肥乡县",
+        "district_not_exists": "不存在区"
+    },
+    "79": {
+        "id": "148",
+        "province": "山东",
+        "city": "济南",
+        "district": "章丘市",
+        "district_not_exists": "不存在区"
+    }
+}

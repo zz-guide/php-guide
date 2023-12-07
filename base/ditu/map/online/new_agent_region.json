@@ -1,0 +1,45 @@
+{
+    "16": {
+        "id": "74",
+        "province": "西藏",
+        "city": "拉萨",
+        "district": "当雄县",
+        "province_not_exists": "不存在省"
+    },
+    "20": {
+        "id": "78",
+        "province": "山东",
+        "city": "东营",
+        "district": "垦利县",
+        "district_not_exists": "不存在区"
+    },
+    "21": {
+        "id": "79",
+        "province": "西藏",
+        "city": "拉萨",
+        "district": "当雄县",
+        "province_not_exists": "不存在省"
+    },
+    "23": {
+        "id": "81",
+        "province": "浙江",
+        "city": "杭州",
+        "district": "富阳市",
+        "district_not_exists": "不存在区"
+    },
+    "24": {
+        "id": "82",
+        "province": "云南",
+        "city": "文山",
+        "district": "文山县",
+        "city_not_exists": "不存在市",
+        "district_not_exists": "不存在区"
+    },
+    "26": {
+        "id": "84",
+        "province": "内蒙古",
+        "city": "包头",
+        "district": "昆都仑区",
+        "province_not_exists": "不存在省"
+    }
+}

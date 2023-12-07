@@ -1,0 +1,198 @@
+{
+    "20": {
+        "id": "79",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "永川市",
+        "district_not_exists": "不存在区"
+    },
+    "34": {
+        "id": "93",
+        "province": "山东",
+        "city": "青岛",
+        "district": "即墨市",
+        "district_not_exists": "不存在区"
+    },
+    "36": {
+        "id": "95",
+        "province": "山东",
+        "city": "青岛",
+        "district": "即墨市",
+        "district_not_exists": "不存在区"
+    },
+    "76": {
+        "id": "135",
+        "province": "河北",
+        "city": "邯郸",
+        "district": "肥乡县",
+        "district_not_exists": "不存在区"
+    },
+    "86": {
+        "id": "145",
+        "province": "???",
+        "city": "??",
+        "district": "",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市"
+    },
+    "87": {
+        "id": "146",
+        "province": "??",
+        "city": "??",
+        "district": "",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市"
+    },
+    "89": {
+        "id": "148",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "90": {
+        "id": "149",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "91": {
+        "id": "150",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "92": {
+        "id": "151",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "93": {
+        "id": "152",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "102": {
+        "id": "161",
+        "province": "??",
+        "city": "??",
+        "district": "???",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市",
+        "district_not_exists": "不存在区"
+    },
+    "103": {
+        "id": "162",
+        "province": "??",
+        "city": "??",
+        "district": "???",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市",
+        "district_not_exists": "不存在区"
+    },
+    "104": {
+        "id": "163",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "105": {
+        "id": "164",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "129": {
+        "id": "188",
+        "province": "??",
+        "city": "???",
+        "district": "???",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市",
+        "district_not_exists": "不存在区"
+    },
+    "132": {
+        "id": "191",
+        "province": "???",
+        "city": "???",
+        "district": "???",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市",
+        "district_not_exists": "不存在区"
+    },
+    "140": {
+        "id": "199",
+        "province": "河北省",
+        "city": "邯郸市",
+        "district": "肥乡县",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市",
+        "district_not_exists": "不存在区"
+    },
+    "141": {
+        "id": "200",
+        "province": "河北省",
+        "city": "邯郸市",
+        "district": "肥乡县",
+        "province_not_exists": "不存在省",
+        "city_not_exists": "不存在市",
+        "district_not_exists": "不存在区"
+    },
+    "155": {
+        "id": "214",
+        "province": "河北",
+        "city": "邯郸",
+        "district": "肥乡县",
+        "district_not_exists": "不存在区"
+    },
+    "238": {
+        "id": "297",
+        "province": "山东",
+        "city": "青岛",
+        "district": "即墨市",
+        "district_not_exists": "不存在区"
+    },
+    "247": {
+        "id": "306",
+        "province": "江西",
+        "city": "南昌",
+        "district": "新建县",
+        "district_not_exists": "不存在区"
+    },
+    "249": {
+        "id": "308",
+        "province": "江西",
+        "city": "南昌",
+        "district": "新建县",
+        "district_not_exists": "不存在区"
+    },
+    "258": {
+        "id": "317",
+        "province": "江西",
+        "city": "南昌",
+        "district": "新建县",
+        "district_not_exists": "不存在区"
+    },
+    "260": {
+        "id": "319",
+        "province": "江西",
+        "city": "南昌",
+        "district": "新建县",
+        "district_not_exists": "不存在区"
+    },
+    "263": {
+        "id": "322",
+        "province": "山西",
+        "city": "大同",
+        "district": "南郊区",
+        "district_not_exists": "不存在区"
+    }
+}

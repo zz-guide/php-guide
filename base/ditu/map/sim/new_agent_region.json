@@ -1,0 +1,86 @@
+{
+    "6": {
+        "id": "64",
+        "province": "宁夏",
+        "city": "固原",
+        "district": "",
+        "province_not_exists": "不存在省"
+    },
+    "7": {
+        "id": "65",
+        "province": "宁夏",
+        "city": "固原",
+        "district": "原州区",
+        "province_not_exists": "不存在省"
+    },
+    "18": {
+        "id": "76",
+        "province": "宁夏",
+        "city": "固原",
+        "district": "原州区",
+        "province_not_exists": "不存在省"
+    },
+    "22": {
+        "id": "80",
+        "province": "河北",
+        "city": "秦皇岛",
+        "district": "抚宁县",
+        "district_not_exists": "不存在区"
+    },
+    "25": {
+        "id": "83",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "南川市",
+        "district_not_exists": "不存在区"
+    },
+    "27": {
+        "id": "85",
+        "province": "内蒙古",
+        "city": "",
+        "district": "",
+        "province_not_exists": "不存在省"
+    },
+    "31": {
+        "id": "89",
+        "province": "上海",
+        "city": "上海",
+        "district": "南汇区",
+        "district_not_exists": "不存在区"
+    },
+    "39": {
+        "id": "97",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "永川市",
+        "district_not_exists": "不存在区"
+    },
+    "44": {
+        "id": "102",
+        "province": "重庆",
+        "city": "重庆",
+        "district": "合川市",
+        "district_not_exists": "不存在区"
+    },
+    "51": {
+        "id": "109",
+        "province": "河北",
+        "city": "邯郸",
+        "district": "肥乡县",
+        "district_not_exists": "不存在区"
+    },
+    "52": {
+        "id": "110",
+        "province": "新疆",
+        "city": "",
+        "district": "",
+        "province_not_exists": "不存在省"
+    },
+    "55": {
+        "id": "113",
+        "province": "河北",
+        "city": "邯郸",
+        "district": "肥乡县",
+        "district_not_exists": "不存在区"
+    }
+}

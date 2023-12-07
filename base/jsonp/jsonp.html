@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+
+<script>
+    (function() {
+        let script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'http://localhost:9990/index.php?callback=jsonp';
+        document.body.firstElementChild.append(script);
+    }())
+    function jsonp(response) {
+        console.log(response)
+    }
+</script>
+</body>
+</html>
